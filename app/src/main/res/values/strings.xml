@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AppFinance</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="amount_label">Amount:</string>
+    <string name="date_label">Date:</string>
+    <string name="descr_label">Description:</string>
+    <string name="id_label">REF:</string>
+</resources>
